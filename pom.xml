@@ -63,7 +63,7 @@
 
         <poi.version>4.0.1</poi.version>
         <!-- pdfbox -->
-        <pdfbox.version>2.0.13</pdfbox.version>
+        <pdfbox.version>2.0.16</pdfbox.version>
         <!-- hutool -->
         <hutool.version>4.3.1</hutool.version>
         <!-- guava -->
